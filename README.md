@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm David Delgado and you can take a look on my repositories where you can find some Python, Java, Web and Django developments.  
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :  
