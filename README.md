@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm David Delgado and you can take a look on my repositories where you can find some Python, Java, Web and Django developments. 
+I'm David Delgado and you can take a look on my repositories where you can find some Python, Java, Web and Django developments.  
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -16,7 +16,7 @@ I'm David Delgado and you can take a look on my repositories where you can find 
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats :  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ddelgadod&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
