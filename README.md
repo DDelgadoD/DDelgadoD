@@ -1,6 +1,20 @@
 ### Hi there 👋
 
-I'm David Delgado and you can take a look on my repositories where you can find some Python, Java, Web and Django developments.  
+I'm David Delgado and you can take a look on my repositories where you can find some Python, Java, Web and Django developments.
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="100" height="100"/>
+</div>
+
+If you're interested in my developments in django there are my developments from courses: 
+
+- [Advanced Django Last course](https://github.com/DDelgadoD/course4_proj)  
+- [Advanced Django](https://github.com/DDelgadoD/blango)  
+- [Django for Everybody](https://github.com/DDelgadoD/Django_4_everybody)  
+
+There are my developments from other types:  
+
+- [A very simple contact list](https://github.com/DDelgadoD/Django_Contact_List)  
+- [Gateter. A simplificated Twitter like page](https://github.com/DDelgadoD/Gateter)  
 
 ---
 
