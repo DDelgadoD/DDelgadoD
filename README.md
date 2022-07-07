@@ -13,8 +13,9 @@ If you're interested in my developments in django there are my developments from
 
 There are my developments from other types:  
 
-- [A very simple contact list](https://github.com/DDelgadoD/Django_Contact_List)  
+- [A contact list App in Django](https://github.com/DDelgadoD/Django_Contact_List)  
 - [Gateter. A simplificated Twitter like page](https://github.com/DDelgadoD/Gateter)  
+- [IATI. A shop API](https://github.com/DDelgadoD/IATI)
 
 ---
 
