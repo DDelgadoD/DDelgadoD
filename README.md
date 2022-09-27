@@ -22,7 +22,7 @@ There are my developments from other types:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 </div>
 <br>
-If you're interested in my developments pure HTML and CSS there are my developments from courses IRONHACK and IT ACADEMY:
+If you're interested in my developments in pure HTML and CSS there are my developments from courses IRONHACK and IT ACADEMY:
 <br>
 <br>
 
