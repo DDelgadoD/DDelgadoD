@@ -31,6 +31,17 @@ If you're interested in my developments in pure HTML and CSS there are my develo
 - [A recipes blog](https://github.com/DDelgadoD/IRONHACK-lab-3-css-recipes-clone)
 - [Work with flex and responsive](https://github.com/DDelgadoD/S1.-HTML-i-CSS)
 
+<br>
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+</div>
+<br>
+
+If you're interested in my developments in vanilla JavaScript there are my developments from courses IRONHACK and IT ACADEMY:
+<br>
+
+ - [Basic Algorithms](https://github.com/DDelgadoD/IRONHACK-lab5-javascript-basic-algorithms)
+ - [Functions and Arrays](https://github.com/DDelgadoD/IRONHACK-lab6-javascript-functions-and-arrays) 
 
 ---
 
