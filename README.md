@@ -29,7 +29,7 @@ If you're interested in my developments in pure HTML and CSS there are my develo
 - [A Netflix landing page HTML - CSS clone](https://github.com/DDelgadoD/IRONHACK-lab-1-netflix)  
 - [A Behance Gallery like](https://github.com/DDelgadoD/IRONHACK-lab-2-gallery)  
 - [A recipes blog](https://github.com/DDelgadoD/IRONHACK-lab-3-css-recipes-clone)
-- [Work with flex and Responsive](https://github.com/DDelgadoD/S1.-HTML-i-CSS)
+- [Work with flex and responsive](https://github.com/DDelgadoD/S1.-HTML-i-CSS)
 
 
 ---
