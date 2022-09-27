@@ -17,12 +17,11 @@ There are my developments from other types:
 - [Gateter. A simplificated Twitter like page](https://github.com/DDelgadoD/Gateter)  
 - [IATI. A shop API](https://github.com/DDelgadoD/IATI)  
 <br>
-
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 </div>
-
+<br>
 If you're interested in my developments pure HTML and CSS there are my developments from courses IRONHACK and ITACADEMY:
 
 - [A Netflix landing page HTML - CSS clone](https://github.com/DDelgadoD/IRONHACK-lab-1-netflix)  
