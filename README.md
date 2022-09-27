@@ -23,11 +23,13 @@ There are my developments from other types:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 </div>
 
-If you're interested in my developments pure HTML and CSS there are my developments from course IRONHACK:
+If you're interested in my developments pure HTML and CSS there are my developments from courses IRONHACK and ITACADEMY:
 
 - [A Netflix landing page HTML - CSS clone](https://github.com/DDelgadoD/IRONHACK-lab-1-netflix)  
 - [A Behance Gallery like](https://github.com/DDelgadoD/IRONHACK-lab-2-gallery)  
 - [A recipes blog](https://github.com/DDelgadoD/IRONHACK-lab-3-css-recipes-clone)
+- [Work with flex and Responsive](https://github.com/DDelgadoD/S1.-HTML-i-CSS)
+
 
 ---
 
